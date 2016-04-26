@@ -1,7 +1,7 @@
 <h2>Protecting Apache Web Server from Attacks </h2>
-<hr/>
 
-Add the code in your server's httpd.conf file
+
+Add the code in your server's <strong>httpd.conf</strong> file.
 
 <ol>
     <li>
@@ -72,5 +72,8 @@ Add the code in your server's httpd.conf file
     </li>
     <li>
         Update Apache server to the latest version
+    </li>
+    <li>
+        Learn Some hacking and try to hack your own server
     </li>
 </ol>
