@@ -3,8 +3,9 @@ Protecting Apache Web Server from Attacks
 Add the code in your server's httpd.conf file
 
 1. Don't display or send Apache version (Set ServerTokens)
-    CODE => ServerTokens Prod
-
+    <CODE>
+        ServerTokens Prod
+    </CODE>
 2. Don't allow access to .htaccess
     CODE => 
             <Directory />
